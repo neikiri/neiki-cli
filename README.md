@@ -1,8 +1,8 @@
-<h1 align="center">Neiki CLI</h1>
-
 <p align="center">
   <img src="logo.png" alt="neiki" width="400">
 </p>
+
+<h1 align="center">Neiki's CLI</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FFCC33?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
@@ -33,7 +33,7 @@
 ### Quick Install (recommended)
 
 ```bash
-git clone https://github.com/jindrichstoklasa/neiki-cli.git
+git clone https://github.com/neikiri/neiki-cli.git
 cd neiki-cli
 chmod +x install.sh
 sudo ./install.sh
@@ -42,7 +42,7 @@ sudo ./install.sh
 ### Manual Install
 
 ```bash
-git clone https://github.com/jindrichstoklasa/neiki-cli.git
+git clone https://github.com/neikiri/neiki-cli.git
 cd neiki-cli
 chmod +x neiki
 sudo cp neiki /usr/local/bin/neiki
