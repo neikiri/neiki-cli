@@ -22,7 +22,7 @@
     "url": "https://github.com/neikiri/neiki-cli/issues"
   },
   "license": "MIT",
-  "author": "neikiri <dev@neiki.eu>",
+  "author": "neikiri <neikiri@neikiri.dev>",
   "type": "commonjs",
   "bin": {
     "neiki": "neiki"
